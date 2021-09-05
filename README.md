@@ -15,4 +15,5 @@ border-radius=10px
 text-align=center
 
 # Example
+![Screenshot](screenshots/ht_string.png)
 
