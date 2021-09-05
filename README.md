@@ -15,5 +15,14 @@ border-radius=10px
 text-align=center
 
 # Example
-![](screenshots/ht_string.png)
+![CHEESE!](screenshots/ht_string.PNG)<br />
+also, if you wanna include variables in your ht_string you can just use f string and add {variable_name} where you want it to be.<br />
+eg<br />
+![CHEESE!](screenshots/ht_string_variables.PNG)<br />
 
+# finally
+<br />
+you can write your string in the same python file or in separate file and then import it to your main py file<br />
+**but it looks clean when you import it** :innocent:<br /><br />
+
+![CHEESE!](screenshots/main_pic.PNG)
