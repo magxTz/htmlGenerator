@@ -15,5 +15,5 @@ border-radius=10px
 text-align=center
 
 # Example
-![Optional Text](screenshots/ht_string.png)
+![](screenshots/ht_string.png)
 
