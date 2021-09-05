@@ -22,7 +22,7 @@ eg<br />
 
 # finally
 <br />
-you can write your string in the same python file or in separate file and then import it to your main py file<br />
+you can write your string in the same python file or in separate file and then import to your main py file<br />
 **but it looks clean when you import it** :innocent:<br /><br />
 
 ![CHEESE!](screenshots/main_pic.PNG)
